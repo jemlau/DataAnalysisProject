@@ -5,6 +5,9 @@ Collaborators:
 
 Jemina
 
-Ella
+*Ella*
+- Age 
+- Gender
+- Salary satisfaction
 
 Hanna
