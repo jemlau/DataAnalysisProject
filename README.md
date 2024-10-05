@@ -3,7 +3,12 @@ Project for our school course "Data handling with Python".
 
 Collaborators:
 
-Jemina
+*Jemina*
+- Education
+- Years of service
+- Satisfaction with management
+- Satisfaction with tasks
+
 
 *Ella*
 - Age 
